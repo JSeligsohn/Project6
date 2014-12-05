@@ -1,3 +1,9 @@
+HOW TO RUN
+1. Open up index.html in browser.
+2. All tests automatically run and should pass.
+3. Change the code in app.js to force tests to fail.
+
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
