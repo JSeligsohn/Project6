@@ -58,6 +58,7 @@ h2 {
     width: 10em;
     transform: translate3d(0, 0, 0);
     transition: transform 0.2s;
+    z-index: 99;
 }
 
 .menu ul {
